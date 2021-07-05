@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "10",
+      "id": 5
+    },
+    {
+      "nombre": "Tequila",
+      "precio": 10,
+      "id": 6
+    },
+    {
+      "nombre": "Aceitunas",
+      "precio": 4,
+      "id": 7
+    },
+    {
+      "nombre": "Naranjas",
+      "precio": 5,
+      "id": 10
+    },
+    {
+      "nombre": "Calabaza",
+      "precio": 10,
+      "id": 11
+    }
+  ]
+}
